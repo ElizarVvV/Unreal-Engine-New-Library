@@ -41,3 +41,28 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Line Trace Class All = hits all objects of your chosen class. You can get your class values like this and cast successfully Or it can be used for other things.
 
+![LineTraceMouse](https://user-images.githubusercontent.com/112575364/211678499-786952ba-3028-4ca0-a177-694d5bc9b7d4.png)
+
+* = Line Trace Mouse = The mouse cursor hits its position in the world.
+
+![LineTraceTarget](https://user-images.githubusercontent.com/112575364/211678987-248e24ca-fc73-43b9-b2ed-d8250d11af39.png)
+
+* = Line Trace Target = Hits the selected object. You can get your class values like this and cast successfully Or it can be used for other things.
+
+![LineTraceStraight](https://user-images.githubusercontent.com/112575364/211679096-b34fbfb2-1c17-4c41-976d-e4abd233325a.png)
+
+* = Line Trace Straight = throws a straight hit where the camera is looking. We can shift the position it hits with drift.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
