@@ -15,4 +15,8 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 ![ClassOverlap](https://user-images.githubusercontent.com/112575364/211673252-67e8034b-6526-4357-a337-273ff46288af.png)
 
-* = Class Overlap = creates a begin overlap of your chosen class. you can start overlap by calling a class in any code writing and you can get the values of the class.
+* = Class Overlap = creates a actor begin overlap of your chosen class. you can start overlap by calling a class in any code writing and you can get the values of the class.
+
+![ClassOverlapEnd](https://user-images.githubusercontent.com/112575364/211674157-98f40755-f166-41cb-9de6-6a68fbf29262.png)
+
+* = Class Overlap End = creates a actor end overlap of your chosen class. you can start overlap by calling a class in any code writing and you can get the values of the class.
