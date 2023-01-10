@@ -29,10 +29,13 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Class Clicked = Creates an actor event by clicking on the class of your choice. You can start overlapping and get the values ​​of the class by calling a class in any script.
 
+![ClassSetLocation](https://user-images.githubusercontent.com/112575364/211676364-c595c00a-c270-40c5-bbb5-8294c1aa8f42.png)
 
+* = Class Set Location = Changes the position of the index value of the class you entered
 
+![Line Trace Class](https://user-images.githubusercontent.com/112575364/211677080-25edd4b5-5014-4562-96ce-081ce06356e6.png)
 
-
+* = Line Trace Class = hits your chosen class. and you can get your class values like this and cast successfully Or it can be used for other things.
 
 
 
