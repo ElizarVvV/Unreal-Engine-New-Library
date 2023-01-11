@@ -2,13 +2,33 @@
 we are finishing very long and tiring complex codes. We develop the bp fast, simple and optimized new library together with our team.
 =========================================================================================================================================================================
 
-### Nodes that will come with the new version (0.19)
+### Nodes that will come with the new version (0.2)
+
+============================================================================================
+
+![LineTraceStraightHitValid](https://user-images.githubusercontent.com/112575364/211874188-5240edb0-dec9-47ab-8349-54f175f746d8.png)
+
+* = Line Trace Straight Hit Valid = The object it hits and the class it selects check with each other. (gives the position the camera is looking at, you can offset)
+
+![LineTraceMouseHitValid](https://user-images.githubusercontent.com/112575364/211873248-f960c04e-1299-4c0e-b552-50c0b79a1d59.png)4
+
+* = Line Trace Mouse Hit Valid = The object it hits and the class it selects check with each other. (The mouse cursor hits its position in the world)
+
+![LoopWithinLoop](https://user-images.githubusercontent.com/112575364/211872392-71aa6b7a-b194-49d0-9616-553f57d80cc4.png)
+
+* = Loop Within Loop = Creates a Loop within a loop. We can choose how many seconds to trigger the loops inside the loop. We can also tell how many Loop Within Loops to spawn. (no optimization problems , Use it comfortably.)
+
+![SpawnLoopDelay](https://user-images.githubusercontent.com/112575364/211871625-bb71a0ba-1072-4e0b-bc82-acb37f0945bf.png)
+
+* = Spawn Loop Delay = loop spawns. (no optimization problems , Use it comfortably.)
+
+![JumpReady](https://user-images.githubusercontent.com/112575364/211870250-5cab369b-71ca-4ef1-8241-44644c15ccd4.png)
+
+* = Jump Ready = used to jump and stop jump
 
 ![Merge](https://user-images.githubusercontent.com/112575364/211824486-4e2fa9bb-fadc-4fb7-925e-a3370ca00d3f.png)
 
 * = Merge = Input A and B go to the same output
-
-============================================================================================
 
 ![bandicam 2023-01-11 00-39-48-798 - Kopya (2)](https://user-images.githubusercontent.com/112575364/211668188-45f8ddfa-f24e-4d37-9e5c-9c2246cf6024.png) 
 
