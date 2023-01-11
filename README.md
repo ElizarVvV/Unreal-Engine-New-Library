@@ -57,6 +57,26 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Get Mouse Cordinate System = Takes value according to the coordinate system. the middle of the screen is the 0 point.
 
+![GetMouseInWorldLocation](https://user-images.githubusercontent.com/112575364/211747065-d5845d86-46af-4287-b1a4-6ef887f7a24e.png)
+
+* = Get Mouse In World Location = Returns the position of the place clicked with the mouse on the world.
+
+![GetStraight](https://user-images.githubusercontent.com/112575364/211747331-d447c654-a63a-4bde-8288-8100e18b5eb8.png)
+
+* = Get Straight = gives the position the camera is looking at, you can offset.
+
+![GetClassAll](https://user-images.githubusercontent.com/112575364/211747637-72ad2be8-bee3-4670-8776-d16daba9f40c.png)
+
+* = Get Class All = Returns the Object and location of the class.
+
+
+
+
+
+
+
+
+
 
 
 
