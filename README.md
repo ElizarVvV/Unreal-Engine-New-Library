@@ -85,14 +85,17 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Get Move Swipe Screen 2D = this allows you to move by clicking on the screen if Swipe Screen 2D is connected
 
+![TouchSwipeUdrl](https://user-images.githubusercontent.com/112575364/211752261-c01f850e-6839-4af1-8526-175e930d1c7e.png)
 
+* = Touch Swipe Udrl = allows to navigate the upper lower right left by touching the screen
 
+![LaunchController](https://user-images.githubusercontent.com/112575364/211752652-1150031b-3d3e-4d29-a54c-9af6e3dbfcf7.png)
 
+* = Launch Controller = Provides Yaw and Pitch movements on the screen, so it allows you to look around.
 
+![AddTargetMoveSelf](https://user-images.githubusercontent.com/112575364/211753185-408f5973-fd52-496d-b56d-6d163917a458.png)
 
-
-
-
+* = Add Target Move Self = Allows movement according to the target you enter. (Designed for fps games!)
 
 
 
