@@ -69,6 +69,22 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Get Class All = Returns the Object and location of the class.
 
+![Hit Valid](https://user-images.githubusercontent.com/112575364/211749787-e2412ae7-1be0-48ca-881c-ed51045d1aea.png)
+
+* = Get Class All = Returns the Object and location of the class.
+
+![Hit Valid](https://user-images.githubusercontent.com/112575364/211749953-9e3d762f-ae36-49d8-94ab-4dcf6fa99d84.png)
+
+* = Hit Valid = Checks whether the class you selected and the class you hit are the same and Returns the value of the selected class.
+
+![SwipeScreen2D](https://user-images.githubusercontent.com/112575364/211750407-c8614f0b-ea08-4ce6-8f2a-2b6f320eec2d.png)
+
+* = Swipe Screen 2D = It works as a coordinate system and understands the movements you make on the screen.
+
+![GetMoveSwipeScreen2D](https://user-images.githubusercontent.com/112575364/211750894-0319e62e-93d1-40d7-8712-e566d53b722f.png)
+
+* = Get Move Swipe Screen 2D = this allows you to move by clicking on the screen if Swipe Screen 2D is connected
+
 
 
 
