@@ -69,10 +69,6 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Get Class All = Returns the Object and location of the class.
 
-![Hit Valid](https://user-images.githubusercontent.com/112575364/211749787-e2412ae7-1be0-48ca-881c-ed51045d1aea.png)
-
-* = Get Class All = Returns the Object and location of the class.
-
 ![Hit Valid](https://user-images.githubusercontent.com/112575364/211749953-9e3d762f-ae36-49d8-94ab-4dcf6fa99d84.png)
 
 * = Hit Valid = Checks whether the class you selected and the class you hit are the same and Returns the value of the selected class.
