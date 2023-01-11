@@ -4,6 +4,8 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 ### Nodes that will come with the new version (0.2)
 
+Now Nothing
+
 ============================================================================================
 
 ![LineTraceStraightHitValid](https://user-images.githubusercontent.com/112575364/211874188-5240edb0-dec9-47ab-8349-54f175f746d8.png)
