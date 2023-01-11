@@ -93,6 +93,26 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Add Target Move Self = Allows movement according to the target you enter. (Designed for fps games!)
 
+![ViewportLeftAndRight](https://user-images.githubusercontent.com/112575364/211755163-e5b55a85-e566-4b89-9564-24a113b2893c.png)
+
+* = Viewport Left And Right = Depending on where the mouse cursor is Understands viewport left and right it returns bool value accordingly.
+
+![DelayRate](https://user-images.githubusercontent.com/112575364/211755670-48ffee16-7263-46fe-956e-a4aa1830d6d0.png)
+
+* = Delay Rate = Returns an integer value that increases continuously and very fast (There is a loop within a loop, it should not be called too often!)
+
+![ResetOnceLoop](https://user-images.githubusercontent.com/112575364/211757169-f4e89887-a3e7-4c23-a3c7-3d9a8b4c26ba.png)
+
+* = Reset Once Loop = You can use it under what condition you want the place you linked to return.
+
+![objectIn ComponentValid](https://user-images.githubusercontent.com/112575364/211757748-817f5b1c-04dd-41dd-b985-2d8826f296e1.png)
+
+* = Object In Component Valid = Allows you to control the products inside your object.
+
+![SwichValid](https://user-images.githubusercontent.com/112575364/211758215-4aa0b3d3-7c33-4a33-895a-63e2c1ab3e63.png)
+
+* = Swich Valid = Compares two objects with each other.
+
 
 
 
