@@ -113,6 +113,34 @@ we are finishing very long and tiring complex codes. We develop the bp fast, sim
 
 * = Swich Valid = Compares two objects with each other.
 
+![GetGunStyle](https://user-images.githubusercontent.com/112575364/211759967-9fb5b7d0-e57e-4823-86e9-1463c4140809.png)
+
+* = Get Gun Style = Gives transform like where she shoots with a gun.
+
+![BranchMulti](https://user-images.githubusercontent.com/112575364/211760545-39bf5845-2f24-4b69-8c94-cbe93ff95008.png)
+
+* = Branch Multi = Provides Branch control with 6 outputs.
+
+![ListVeriables](https://user-images.githubusercontent.com/112575364/211760930-1e344927-91a7-4466-af6d-60ef1743c751.png)
+
+* = List Veriables = For temporary use of variables.
+
+![FlipFlopPlus](https://user-images.githubusercontent.com/112575364/211761134-0b4017d1-49b0-477e-907d-8bfdaef6666c.png)
+
+* = Flip Flop Plus = The FlipFlopPlus node receives one execution output and switches between six execution outputs.
+
+![GetTargetMove](https://user-images.githubusercontent.com/112575364/211761678-12efa513-ade7-4771-a802-e6747d110f2f.png)
+
+* = Get Target Move = Returns the right and forward values of the entered target
+
+![SwichMaterial](https://user-images.githubusercontent.com/112575364/211762022-b2cabb17-5f8b-4ddd-aa5c-8a991f24fea3.png)
+
+* = Get Target Move = Switches between two materials
+
+
+
+
+
 
 
 
