@@ -1,6 +1,15 @@
 # Unreal-Engine-New-Library
 we are finishing very long and tiring complex codes. We develop the bp fast, simple and optimized new library together with our team.
 =========================================================================================================================================================================
+
+### Nodes that will come with the new version (0.19)
+
+![Merge](https://user-images.githubusercontent.com/112575364/211824486-4e2fa9bb-fadc-4fb7-925e-a3370ca00d3f.png)
+
+* = Merge = Input A and B go to the same output
+
+============================================================================================
+
 ![bandicam 2023-01-11 00-39-48-798 - Kopya (2)](https://user-images.githubusercontent.com/112575364/211668188-45f8ddfa-f24e-4d37-9e5c-9c2246cf6024.png) 
 
 * = Quality Each Loop = Thanks to the optimized loop system and delay, there is never an infinite loop error, it does not cause stuttering or freezing. It may cause some problems but should be constantly checked while using! 
