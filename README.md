@@ -2,7 +2,8 @@
 we are finishing very long and tiring complex codes. We develop the bp fast, simple and optimized new library together with our team.
 =========================================================================================================================================================================
 
-### Nodes that will come with the new version (0.2)
+### Nodes that will come with the new version (0.5)
+a big library is coming soon and only free
 
 Now Nothing
 
